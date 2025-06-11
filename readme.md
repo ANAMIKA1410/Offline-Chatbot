@@ -94,7 +94,4 @@ Preload static content (e.g., FAQs, document excerpts) into the model's context 
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use. Attribution appreciated.
 
