@@ -76,7 +76,7 @@ Preload static content (e.g., FAQs, document excerpts) into the model's context 
 
 2. **Open the Project**:
    - Clone or download this repository.
-   - Open `cagBotOffline 1.html` in a WebGPU-enabled browser.
+   - Open `cagBotOffline.html` in a WebGPU-enabled browser.
 
 3. **Start Chatting**:
    - Select a model.
